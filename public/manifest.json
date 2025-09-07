@@ -1,0 +1,75 @@
+{
+  "name": "QR Scanner Pro - Advanced QR Code Scanner & Generator",
+  "short_name": "QR Scanner Pro",
+  "description": "Advanced QR Code Scanner and Generator with analytics, history, and AI-powered features",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "categories": ["utilities", "productivity", "tools"],
+  "screenshots": [
+    {
+      "src": "https://placehold.co/540x720?text=QR+Scanner+Mobile+Screenshot",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "https://placehold.co/1024x768?text=QR+Scanner+Desktop+Screenshot", 
+      "sizes": "1024x768",
+      "type": "image/png",
+      "form_factor": "wide"
+    }
+  ],
+  "icons": [
+    {
+      "src": "https://placehold.co/72x72?text=QR+72",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://placehold.co/96x96?text=QR+96", 
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://placehold.co/128x128?text=QR+128",
+      "sizes": "128x128", 
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://placehold.co/144x144?text=QR+144",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://placehold.co/152x152?text=QR+152",
+      "sizes": "152x152",
+      "type": "image/png", 
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://placehold.co/192x192?text=QR+192",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://placehold.co/384x384?text=QR+384",
+      "sizes": "384x384", 
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "https://placehold.co/512x512?text=QR+512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
